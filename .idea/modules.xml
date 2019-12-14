@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-parent-master/gmall0715-common/gmall0715-common.iml" filepath="$PROJECT_DIR$/gmall0715-parent-master/gmall0715-common/gmall0715-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-parent-master/gmall0715-logger/gmall0715-logger.iml" filepath="$PROJECT_DIR$/gmall0715-parent-master/gmall0715-logger/gmall0715-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-parent-master/gmall0715-mock/gmall0715-mock.iml" filepath="$PROJECT_DIR$/gmall0715-parent-master/gmall0715-mock/gmall0715-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0715-parent-master/gmall0715-parent.iml" filepath="$PROJECT_DIR$/gmall0715-parent-master/gmall0715-parent.iml" />
+    </modules>
+  </component>
+</project>
